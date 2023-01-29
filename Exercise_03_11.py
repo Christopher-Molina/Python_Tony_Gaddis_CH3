@@ -1,4 +1,4 @@
-# Starting Out With Python 5th Edition: Chapter 3 - Exercise 14
+# Starting Out With Python 5th Edition: Chapter 3 - Exercise 11
 
 # Input number of books the user has purchased this month
 books_purchased = int(input('Enter number of books purchased this month: '))

@@ -1,4 +1,5 @@
 # Starting Out With Python 5th Edition: Chapter 3 - Exercise 4
+number = int(input('Enter number in the range 1 through 10: '))
 
 # Decision structure
 if number == 1:

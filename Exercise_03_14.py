@@ -1,3 +1,5 @@
+# Starting Out With Python 5th Edition: Chapter 3 - Exercise 14
+
 # Formula: BMI = weight * 703/height^2
 # Input weight in pounds
 weight = float(input('Enter weight in pounds: '))
